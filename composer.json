@@ -1,8 +1,9 @@
 {
-	"name": "oncesk/ssh2",
+	"name": "zteel/ssh2",
 	"type": "library",
+	"version": "1.0.1",
 	"description": "ssh2 client library",
-	"homepage": "https://github.com/oncesk/ssh2",
+	"homepage": "https://github.com/Zteel/ssh2",
 	"keywords": ["ssh","ssh2", "ssh client"],
 	"require": {
 		"php": ">=5.4.0"
