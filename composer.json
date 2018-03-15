@@ -1,7 +1,8 @@
 {
 	"name": "zteel/ssh2",
+    "license": "GPL-2.0-only",
 	"type": "library",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "ssh2 client library",
 	"homepage": "https://github.com/Zteel/ssh2",
 	"keywords": ["ssh","ssh2", "ssh client"],
